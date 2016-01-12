@@ -1,5 +1,5 @@
 # Rapid Bootstrap V4
-«Rapid Bootstrap V4» is a toolkit for kickstarting web-projects, apps, and more. It includes the essential set of CSS elements optimized for perfect typography, a super simple fluid grid system and everything else necessary to develop mobile friendly content. It is optimized for speed and efficiency and will support all major desktop and mobile browsers. One of the cleanest and simples bootstraps you will ever get you hands on.
+«Rapid Bootstrap V4» is a toolkit for kickstarting web-projects, apps, and more. It includes the essential set of CSS elements optimized for perfect typography, a super simple fluid grid system and everything else necessary to develop mobile friendly content. It is optimized for speed and efficiency and will support all major desktop and mobile browsers. One of the cleanest and simplest bootstraps you will ever get you hands on.
 
 ## Credits
 Please support humans.txt (http://humanstxt.org/). It's an initiative for knowing the people behind a website. It's a TXT file that contains information about the different people who have contributed to building the website.
