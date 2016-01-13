@@ -31,32 +31,34 @@ h5 {
     font-weight: 700;
 }
 h1 {
-    font-size: 1.772em;
+    font-size: 2em;
     line-height: 1.25em;
-    margin-top: 0.846em;
-    margin-bottom: 0.846em;
+    margin-top: 0.625em;
+    margin-bottom: 0.625em;
 }
 h2 {
-    font-size: 1.318em;
-    line-height: 1.137em;
-    margin-top: 1.137em;
-    margin-bottom: 0em;
+    font-size: 1.625em;
+    line-height: 1.15384615em;
+    margin-top: 0.576923075em;
+    margin-bottom: 0.576923075em;
 }
 h3 {
-    font-size: 1.318em;
-    line-height: 1.137em;
-    margin-top: 1.137em;
-    margin-bottom: 0em;
+    font-size: 1.375em;
+    line-height: 1.13636364em;
+    margin-top: 0.56818182em;
+    margin-bottom: 0.56818182em;
 }
-h4,
+h4 {
+    font-size: 1.125em;
+    line-height: 1.11111111em;
+    margin-top: 0.555555555em;
+    margin-bottom: 0.555555555em;
+}
 h5,
-h6,
-h7,
-h8,
-h9 {
+h6 {
     font-size: 1em;
     line-height: 1.5em;
-    margin-top: 1.5em;
+    margin-top: 0em;
     margin-bottom: 0em;
 }
 p,
@@ -464,17 +466,20 @@ Changes on the body font-size will have a direct effect on the whole typography 
 
 @media (min-width: 320px) {
     body {
-        font-size: 1.25em; /* Don't break the typographic rhythm. You can move either way in 0.125em or % steps. 1.375 —> 1.250 —> 1.125 —> 1.000 */
+        font-size: 1.125em;
+        /* Don't break the typographic rhythm. You can move either way in 0.125em or % steps. 1.375 —> 1.250 —> 1.125 —> 1.000 */
     }
 }
 @media (min-width: 600px) {
     body {
-        font-size: 1.25em; /* Don't break the typographic rhythm. You can move either way in 0.125em or % steps. 1.375 —> 1.250 —> 1.125 —> 1.000 */
+        font-size: 1.25em;
+        /* Don't break the typographic rhythm. You can move either way in 0.125em or % steps. 1.375 —> 1.250 —> 1.125 —> 1.000 */
     }
 }
 @media (min-width: 768px) {
     body {
-        font-size: 1.375em; /* Don't break the typographic rhythm. You can move either way in 0.125em or % steps. 1.375 —> 1.250 —> 1.125 —> 1.000 */
+        font-size: 1.25em;
+        /* Don't break the typographic rhythm. You can move either way in 0.125em or % steps. 1.375 —> 1.250 —> 1.125 —> 1.000 */
     }
     /* Column Grid */
     
@@ -506,12 +511,14 @@ Changes on the body font-size will have a direct effect on the whole typography 
 }
 @media (min-width: 1024px) {
     body {
-        font-size: 1.375em; /* Don't break the typographic rhythm. You can move either way in 0.125em or % steps. 1.375 —> 1.250 —> 1.125 —> 1.000 */
+        font-size: 1.375em;
+        /* Don't break the typographic rhythm. You can move either way in 0.125em or % steps. 1.375 —> 1.250 —> 1.125 —> 1.000 */
     }
 }
 @media (min-width: 1360px) {
     body {
-        font-size: 1.375em; /* Don't break the typographic rhythm. You can move either way in 0.125em or % steps. 1.375 —> 1.250 —> 1.125 —> 1.000 */
+        font-size: 1.375em;
+        /* Don't break the typographic rhythm. You can move either way in 0.125em or % steps. 1.375 —> 1.250 —> 1.125 —> 1.000 */
     }
     blockquote,
     q {
