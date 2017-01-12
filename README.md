@@ -1,7 +1,6 @@
 # Rapid Bootstrap V4
 «Rapid Bootstrap V4» is a toolkit for kickstarting web-projects, apps, and more. It includes the essential set of CSS elements optimized for perfect typography, a super simple fluid grid system and everything else necessary to develop mobile friendly content. It is optimized for speed and efficiency, only 2kb gzipped, and will support all major desktop and mobile browsers. One of the cleanest and simplest bootstraps you will ever get you hands on.
 
-You can read more about it here: <a href='https://www.niklausgerber.com/blog/rapid-bootstrap-v4' title='Rapid Bootstrap V4' target='_blank'>Rapid Bootstrap V4 by Niklaus Gerber</a><br />
 You can see a live preview here: <a href='http://clients.niklausgerber.com/rapid-bootstrap-v4/' title='Rapid Bootstrap V4 Live Preview' target='_blank'>Rapid Bootstrap V4 Live Preview</a>
 
 ## Credits
