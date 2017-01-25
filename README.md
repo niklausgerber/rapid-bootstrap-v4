@@ -6,7 +6,7 @@ You can see a live preview here: <a href='http://clients.niklausgerber.com/rapid
 ## Credits
 Please support humans.txt (http://humanstxt.org/). It's an initiative for knowing the people behind a website. It's a TXT file that contains information about the different people who have contributed to building the website.
 
-	Bootstrap: https://github.com/niklausgerber/rapid-bootstrap-v4
+	Rapid Bootstrap: https://github.com/niklausgerber/rapid-bootstrap-v4
 	Niklaus Gerber
 	Twitter: @niklausgerber
 	URL: https://www.niklausgerber.com
